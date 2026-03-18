@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 # ha
 haha <br>
 aksjddha
