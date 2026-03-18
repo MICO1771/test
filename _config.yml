@@ -1,0 +1,11 @@
+title:          test
+description:    "testing smth ig"
+style_dark: macchiato
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+remote_theme: snippet-book
